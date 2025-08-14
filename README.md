@@ -55,9 +55,9 @@ OpenAI's ChatGPT, powered by GPT-4o, was enlisted for ML model customization, fi
 •	If the feature-constraint were removed, the author believes the ANN and Decision Tree models can easily outperform current results.
 
 
-#### Folders
+#### Folders & Files
 
-•	01 Datasets: Original, processed and split data files.  Original weather data is in the "Dataset-weather-prediction-dataset-processed.xlsx" Excel file.  Pleasant/Unpleasant Weather answers data is in the "Dataset-Answers-Weather_Prediction_Pleasant_Weather.xlsx" Excel file of unknown provenance.
+•	Original weather data is in the "Dataset-weather-prediction-dataset-processed.xlsx" Excel file.  Pleasant/Unpleasant Weather answers data is in the "Dataset-Answers-Weather_Prediction_Pleasant_Weather.xlsx" Excel file of unknown provenance.
 
 •	02 Scripts: Python scripts for the sequential stages of the project, differentiated by topics.  The Task 1.5 folder file named "ML Task 1.5 part 2 - Summary Results - DT vs ANN models" has tables highlighting model-vs-model results.
 
